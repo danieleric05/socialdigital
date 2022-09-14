@@ -1,5 +1,4 @@
-<?php include "include/header-user.php"; ?> 
-		
+<?php include "include/header-user.php"; ?>
 		<section>
 			<div class="page-header">
 				<div class="header-inner">
@@ -11,8 +10,6 @@
 				</div>
 			</div>
 		</section>
-		
-		
 		<section>
 			<div class="gap gray-bg">
 				<div class="container-fluid">

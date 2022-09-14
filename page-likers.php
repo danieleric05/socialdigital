@@ -1,5 +1,4 @@
 <?php include "include/header-user.php"; ?>
-
 <section>
     <div class="feature-photo">
         <figure><img alt="" src="images/resources/timeline-4.jpg"></figure>

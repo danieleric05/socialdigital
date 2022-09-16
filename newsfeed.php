@@ -508,7 +508,8 @@
                                                     </div>
                                                     <div class="we-comment">
                                                         <div class="coment-head">
-                                                            <h5><a href="time-line.php" title="">Jason borne</a></h5>
+                                                            <h5><a href="time-line.php" title="">Jérémie Blanchard</a>
+                                                            </h5>
                                                             <span>1 year ago</span>
                                                             <a class="we-reply" href="#" title="Reply"><i
                                                                     class="fa fa-reply"></i></a>
@@ -525,7 +526,8 @@
                                                     </div>
                                                     <div class="we-comment">
                                                         <div class="coment-head">
-                                                            <h5><a href="time-line.php" title="">Sophia</a></h5>
+                                                            <h5><a href="time-line.php" title="">Sophie Dechavane</a>
+                                                            </h5>
                                                             <span>1 week ago</span>
                                                             <a class="we-reply" href="#" title="Reply"><i
                                                                     class="fa fa-reply"></i></a>
@@ -579,7 +581,7 @@
                                                 <img src="images/resources/nearly6.jpg" alt="">
                                             </figure>
                                             <div class="friend-name">
-                                                <ins><a href="time-line.php" title="">Sophia</a></ins>
+                                                <ins><a href="time-line.php" title="">Sophie Dechavane</a></ins>
                                                 <span>published: january,5 2018 19:PM</span>
                                             </div>
                                             <div class="post-meta">
@@ -679,7 +681,8 @@
                                                     </div>
                                                     <div class="we-comment">
                                                         <div class="coment-head">
-                                                            <h5><a href="time-line.php" title="">Jason borne</a></h5>
+                                                            <h5><a href="time-line.php" title="">Jérémie Blanchard</a>
+                                                            </h5>
                                                             <span>1 year ago</span>
                                                             <a class="we-reply" href="#" title="Reply"><i
                                                                     class="fa fa-reply"></i></a>
@@ -696,7 +699,8 @@
                                                     </div>
                                                     <div class="we-comment">
                                                         <div class="coment-head">
-                                                            <h5><a href="time-line.php" title="">Sophia</a></h5>
+                                                            <h5><a href="time-line.php" title="">Sophie Dechavane</a>
+                                                            </h5>
                                                             <span>1 week ago</span>
                                                             <a class="we-reply" href="#" title="Reply"><i
                                                                     class="fa fa-reply"></i></a>

@@ -1,119 +1,122 @@
 <!DOCTYPE php>
 <php lang="en">
-<head>
-    <meta http-equiv="Content-Type" content="text/php; charset=utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-	<title>MyInfluencersSoftware - NewC@ll
-	</title>
-    <link rel="icon" href="images/fav.png" type="image/png" sizes="16x16"> 
-    <link rel="stylesheet" href="css/main.min.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/color.css">
-    <link rel="stylesheet" href="css/responsive.css">
 
-</head>
-<body>
-<!--<div class="se-pre-con"></div>-->
-<div class="theme-layout">
-	<div class="postoverlay"></div>
-	<div class="responsive-header">
-		<div class="mh-head first Sticky">
-			<span class="mh-btns-left">
-				<a class="" href="#menu"><i class="fa fa-align-justify"></i></a>
-			</span>
-			<span class="mh-text">
-				<a href="index.php" title=""><img src="images/logo2.png" alt=""></a>
-			</span>
-			<span class="mh-btns-right">
-				<a class="fa fa-sliders" href="#shoppingbag"></a>
-			</span>
-		</div>
-		<div class="mh-head second">
-			<form class="mh-form">
-				<input placeholder="search" />
-				<a href="#/" class="fa fa-search"></a>
-			</form>
-		</div>
-		<nav id="menu" class="res-menu">
-			<ul>
-				<li><span>Notre Expertise</span>
-					<ul>
-						<li><a href="index.php" title="">Home Social</a></li>						
-						<li><a href="landing.php" title="">Login page</a></li>
-						<li><a href="logout.php" title="">Logout Page</a></li>
-						<li><a href="newsfeed.php" title="">news feed</a></li>
-					</ul>
-				</li>
-				<li><span>Nos Services</span>
-					<ul>
-						<li><a href="time-line.php" title="">timeline</a></li>
-						<li><a href="timeline-friends.php" title="">timeline friends</a></li>
-						<li><a href="timeline-groups.php" title="">timeline groups</a></li>
-						<li><a href="timeline-pages.php" title="">timeline pages</a></li>
-						<li><a href="timeline-photos.php" title="">timeline photos</a></li>
-						<li><a href="timeline-videos.php" title="">timeline videos</a></li>
-						<li><a href="social-post-single.php" title="">Post Single</a></li>
-						<li><a href="fav-page.php" title="">favourit page</a></li>
-						<li><a href="groups.php" title="">groups page</a></li>
-						<li><a href="page-likers.php" title="">Likes page</a></li>
-						<li><a href="people-nearby.php" title="">people nearby</a></li>
-						
-						
-					</ul>
-				</li>
-				<li><span>Des prix Abordables</span>
-					<ul>
-						<li><a href="create-fav-page.php" title="">create fav page</a></li>
-						<li><a href="edit-account-setting.php" title="">edit account setting</a></li>
-						<li><a href="edit-interest.php" title="">edit-interest</a></li>
-						<li><a href="edit-password.php" title="">edit-password</a></li>
-						<li><a href="edit-profile-basic.php" title="">edit profile basics</a></li>
-						<li><a href="edit-work-eductation.php" title="">edit work educations</a></li>
-						<li><a href="messages.php" title="">message box</a></li>
-						<li><a href="inbox.php" title="">Inbox</a></li>
-						<li><a href="notifications.php" title="">notifications page</a></li>
-					</ul>
-				</li>
-				<li><span>Our Blog</span>
-					<ul>
-						<li><a href="blog-grid-wo-sidebar.php" title="">Our Blog</a></li>
-						<li><a href="blog-grid-right-sidebar.php" title="">Blog with R-Sidebar</a></li>
-						<li><a href="blog-grid-left-sidebar.php" title="">Blog with L-Sidebar</a></li>
-						<li><a href="blog-masonry.php" title="">Blog Masonry Style</a></li>
-						<li><a href="blog-list-wo-sidebar.php" title="">Blog List Style</a></li>
-						<li><a href="blog-list-right-sidebar.php" title="">Blog List with R-Sidebar</a></li>
-						<li><a href="blog-list-left-sidebar.php" title="">Blog List with L-Sidebar</a></li>
-						<li><a href="blog-detail.php" title="">Blog Post Detail</a></li>
-					</ul>
-				</li>
-				<li><span>Support & Help</span>
-					<ul>
-						<li><a href="support-and-help.php" title="">Support & Help</a></li>
-						<li><a href="support-and-help-detail.php" title="">Support & Help Detail</a></li>
-						<li><a href="support-and-help-search-result.php" title="">Support & Help Search Result</a></li>
-					</ul>
-				</li>
-				<li><span>Les outils numériques</span>
-					<ul>
-						<li><a href="careers.php" title="">Careers</a></li>
-						<li><a href="career-detail.php" title="">Career Detail</a></li>
-						<li><a href="404.php" title="">404 error page</a></li>
-						<li><a href="404-2.php" title="">404 Style2</a></li>
-						<li><a href="faq.php" title="">faq's page</a></li>
-						<li><a href="insights.php" title="">insights</a></li>
-						<li><a href="knowledge-base.php" title="">knowledge base</a></li>
-					</ul>
-				</li>
-				<li><a href="about.php" title="">about</a></li>
-				<li><a href="about-company.php" title="">About Us2</a></li>
-				<li><a href="contact.php" title="">contact</a></li>
-				<li><a href="contact-branches.php" title="">Contact Us2</a></li>
-				<li><a href="widgets.php" title="">Widgts</a></li>
-			</ul>
-		</nav>
-		<!--<nav id="shoppingbag">
+    <head>
+        <meta http-equiv="Content-Type" content="text/php; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="" />
+        <meta name="keywords" content="" />
+        <title>MyInfluencersSoftware - NewC@ll
+        </title>
+        <link rel="icon" href="images/fav.png" type="image/png" sizes="16x16">
+        <link rel="stylesheet" href="css/main.min.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/color.css">
+        <link rel="stylesheet" href="css/responsive.css">
+
+    </head>
+
+    <body>
+        <!--<div class="se-pre-con"></div>-->
+        <div class="theme-layout">
+            <div class="postoverlay"></div>
+            <div class="responsive-header">
+                <div class="mh-head first Sticky">
+                    <span class="mh-btns-left">
+                        <a class="" href="#menu"><i class="fa fa-align-justify"></i></a>
+                    </span>
+                    <span class="mh-text">
+                        <a href="index.php" title=""><img src="images/logo2.png" alt=""></a>
+                    </span>
+                    <span class="mh-btns-right">
+                        <a class="fa fa-sliders" href=""></a>
+                    </span>
+                </div>
+                <div class="mh-head second">
+                    <form class="mh-form">
+                        <input placeholder="search" />
+                        <a href="#/" class="fa fa-search"></a>
+                    </form>
+                </div>
+                <nav id="menu" class="res-menu">
+                    <ul>
+                        <li><span>Notre Expertise</span>
+                            <ul>
+                                <li><a href="index.php" title="">Home Social</a></li>
+                                <li><a href="landing.php" title="">Login page</a></li>
+                                <li><a href="logout.php" title="">Logout Page</a></li>
+                                <li><a href="newsfeed.php" title="">news feed</a></li>
+                            </ul>
+                        </li>
+                        <li><span>Nos Services</span>
+                            <ul>
+                                <li><a href="#" title="">timeline</a></li>
+                                <li><a href="#" title="">timeline friends</a></li>
+                                <li><a href="#" title="">timeline groups</a></li>
+                                <li><a href="#" title="">timeline pages</a></li>
+                                <li><a href="#" title="">timeline photos</a></li>
+                                <li><a href="#" title="">timeline videos</a></li>
+                                <li><a href="#" title="">Post Single</a></li>
+                                <li><a href="#" title="">favourit page</a></li>
+                                <li><a href="#" title="">groups page</a></li>
+                                <li><a href="#" title="">Likes page</a></li>
+                                <li><a href="#" title="">people nearby</a></li>
+
+
+                            </ul>
+                        </li>
+                        <li><span>Des prix Abordables</span>
+                            <ul>
+                                <li><a href="#" title="">create fav page</a></li>
+                                <li><a href="#" title="">edit account setting</a></li>
+                                <li><a href="#" title="">edit-interest</a></li>
+                                <li><a href="#" title="">edit-password</a></li>
+                                <li><a href="#" title="">edit profile basics</a></li>
+                                <li><a href="#" title="">edit work educations</a></li>
+                                <li><a href="#" title="">message box</a></li>
+                                <li><a href="inbox.php" title="">Inbox</a></li>
+                                <li><a href="#" title="">notifications page</a></li>
+                            </ul>
+                        </li>
+                        <li><span>Our Blog</span>
+                            <ul>
+                                <li><a href="#" title="">Our Blog</a></li>
+                                <li><a href="#" title="">Blog with R-Sidebar</a></li>
+                                <li><a href="#" title="">Blog with L-Sidebar</a></li>
+                                <li><a href="#" title="">Blog Masonry Style</a></li>
+                                <li><a href="#" title="">Blog List Style</a></li>
+                                <li><a href="#" title="">Blog List with R-Sidebar</a></li>
+                                <li><a href="#" title="">Blog List with L-Sidebar</a></li>
+                                <li><a href="#" title="">Blog Post Detail</a></li>
+                            </ul>
+                        </li>
+                        <li><span>Support & Help</span>
+                            <ul>
+                                <li><a href="#" title="">Support & Help</a></li>
+                                <li><a href="#" title="">Support & Help Detail</a></li>
+                                <li><a href="#" title="">Support & Help Search
+                                        Result</a></li>
+                            </ul>
+                        </li>
+                        <li><span>Les outils numériques</span>
+                            <ul>
+                                <li><a href="#" title="">Careers</a></li>
+                                <li><a href="#" title="">Career Detail</a></li>
+                                <li><a href="#" title="">404 error page</a></li>
+                                <li><a href="#" title="">404 Style2</a></li>
+                                <li><a href="#" title="">faq's page</a></li>
+                                <li><a href="#" title="">insights</a></li>
+                                <li><a href="#" title="">knowledge base</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="#" title="">about</a></li>
+                        <li><a href="about-company.php" title="">About Us2</a></li>
+                        <li><a href="contact.php" title="">contact</a></li>
+                        <li><a href="#" title="">Contact Us2</a></li>
+                        <li><a href="#" title="">Widgts</a></li>
+                    </ul>
+                </nav>
+                <!--<nav id="shoppingbag">
 			<div>
 				<div class="">
 					<form method="post">
@@ -179,42 +182,42 @@
 				</div>
 			</div>
 		</nav>-->
-	</div><!-- responsive header -->
-	<div class="topbar stick">
-		<div class="logo">
-			<a title="" href="index.php"><img src="images/logo.png" alt=""></a>
-		</div>
-		<div class="top-area">
-			<ul class="main-menu">
-				
-				<li>
-					<a href="#serv" title="">Services</a>
-				</li>
-				<li>
-					<a href="#teams" title="">Teams</a>
-					</li>
-				<li>
-					<a href="about-company.php" title="">Company</a>
-				</li>
-				<li>
-					<a href="Contact.php" title="">Contact us</a>
-				</li>
-			</ul>
-			<ul class="setting-area">
-				<li>
-					<a href="#" title="Languages" data-ripple=""><i class="fa fa-globe"></i></a>
-						<div class="dropdowns languages">
-							<a href="#" title=""><i class="ti-check"></i>English</a>
-							<a href="#" title="">French</a>
-						</div>
-				</li>
-			</ul>
-			<ul>
-				<li>
-					<a  href="landing.php" title="Connexion" data-ripple="">Log In</a>
-				</li>
-				<li><a class="btn-sub" href="landing.php#reg" title="Enregistrement" data-ripple="">Sign In</a>
-			</li>
-			</ul>
-		</div>
-	</div><!-- topbar -->
+            </div><!-- responsive header -->
+            <div class="topbar stick">
+                <div class="logo">
+                    <a title="" href="index.php"><img src="images/logo.png" alt=""></a>
+                </div>
+                <div class="top-area">
+                    <ul class="main-menu">
+
+                        <li>
+                            <a href="#serv" title="">Services</a>
+                        </li>
+                        <li>
+                            <a href="#teams" title="">Teams</a>
+                        </li>
+                        <li>
+                            <a href="about-company.php" title="">Company</a>
+                        </li>
+                        <li>
+                            <a href="Contact.php" title="">Contact us</a>
+                        </li>
+                    </ul>
+                    <ul class="setting-area">
+                        <li>
+                            <a href="#" title="Languages" data-ripple=""><i class="fa fa-globe"></i></a>
+                            <div class="dropdowns languages">
+                                <a href="#" title=""><i class="ti-check"></i>English</a>
+                                <a href="#" title="">French</a>
+                            </div>
+                        </li>
+                    </ul>
+                    <ul>
+                        <li>
+                            <a href="landing.php" title="Connexion" data-ripple="">Log In</a>
+                        </li>
+                        <li><a class="btn-sub" href="landing.php#reg" title="Enregistrement" data-ripple="">Sign In</a>
+                        </li>
+                    </ul>
+                </div>
+            </div><!-- topbar -->

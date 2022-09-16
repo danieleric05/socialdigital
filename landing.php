@@ -54,7 +54,7 @@ else{
 							<span><img src="images/newcall_200x104.png" alt=""></span>
 						</div>
 						<a href="#" title="" class="folow-me">Follow Us on</a>
-					</div>	
+					</div>
 				</div>
 			</div>
 			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -63,7 +63,6 @@ else{
 						<h2 class="log-title">Login</h2>
 							<div>
 							<button class="login rs1" type="button"><a href="user-admin.php"><span>LINKEDIN</span></a></button>
-								
 							</div>
 							<div>
 							<button class="login rs2" type="button"><a href="user-admin.php"><span>TWITTER</span></a></button>
@@ -71,20 +70,18 @@ else{
 							<div>
 							<button class="login rs3" type="button"><a href="user-admin.php"><span>INSTAGRAM</span></a></button>
 							</div>
-							
 							<div class="checkbox">
 							  <label>
 								<input type="checkbox" checked="checked"/><i class="check-box"></i>Always Remember Me.
 							  </label>
 							</div>
 							<a href="#reg" title="" class="forgot-pwd">Already have an account</a>
-							
 						<form method="post">
-							<div class="form-group">	
+							<div class="form-group">
 							  <input type="text" id="input" required="required"/>
 							  <label class="control-label" for="input">Username</label><i class="mtrl-select"></i>
 							</div>
-							<div class="form-group">	
+							<div class="form-group">
 							  <input type="password" required="required"/>
 							  <label class="control-label" for="input">Password</label><i class="mtrl-select"></i>
 							</div>
@@ -111,24 +108,22 @@ else{
 							<div>
 							<button class="login rs3" type="button"><span>INSTAGRAM</span></button>
 							</div>
-							
 							<div class="checkbox">
 							  <label>
 								<input type="checkbox" checked="checked"/><i class="check-box"></i>Always Remember Me.
 							  </label>
 							</div>
 							<a href="#sign" title="" class="forgot-pwd">Already a member ?</a>
-							
 						<form method="post">
-							<div class="form-group">	
+							<div class="form-group">
 							  <input type="text" required="required"/>
 							  <label class="control-label" for="input">First & Last Name</label><i class="mtrl-select"></i>
 							</div>
-							<div class="form-group">	
+							<div class="form-group">
 							  <input type="text" required="required"/>
 							  <label class="control-label" for="input">User Name</label><i class="mtrl-select"></i>
 							</div>
-							<div class="form-group">	
+							<div class="form-group">
 							  <input type="password" required="required"/>
 							  <label class="control-label" for="input">Password</label><i class="mtrl-select"></i>
 							</div>

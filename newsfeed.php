@@ -243,6 +243,21 @@
                                                                 </div>
                                                                 <div class="rotater">
                                                                     <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-instagram"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-linkedin"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-twitter"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <!--<div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
                                                                                 class="fa fa-html5"></i></a></div>
                                                                 </div>
                                                                 <div class="rotater">
@@ -260,22 +275,8 @@
                                                                 <div class="rotater">
                                                                     <div class="btn btn-icon"><a href="#" title=""><i
                                                                                 class="fa fa-css3"></i></a></div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-instagram"></i></a>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-dribbble"></i></a>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-pinterest"></i></a>
-                                                                    </div>
-                                                                </div>
+                                                                </div>-->
+
 
                                                             </div>
                                                         </li>
@@ -450,6 +451,21 @@
                                                                 </div>
                                                                 <div class="rotater">
                                                                     <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-instagram"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-linkedin"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-twitter"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <!--<div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
                                                                                 class="fa fa-html5"></i></a></div>
                                                                 </div>
                                                                 <div class="rotater">
@@ -467,22 +483,8 @@
                                                                 <div class="rotater">
                                                                     <div class="btn btn-icon"><a href="#" title=""><i
                                                                                 class="fa fa-css3"></i></a></div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-instagram"></i></a>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-dribbble"></i></a>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-pinterest"></i></a>
-                                                                    </div>
-                                                                </div>
+                                                                </div>-->
+
 
                                                             </div>
                                                         </li>
@@ -623,6 +625,21 @@
                                                                 </div>
                                                                 <div class="rotater">
                                                                     <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-instagram"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-linkedin"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-twitter"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <!--<div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
                                                                                 class="fa fa-html5"></i></a></div>
                                                                 </div>
                                                                 <div class="rotater">
@@ -640,22 +657,8 @@
                                                                 <div class="rotater">
                                                                     <div class="btn btn-icon"><a href="#" title=""><i
                                                                                 class="fa fa-css3"></i></a></div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-instagram"></i></a>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-dribbble"></i></a>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-pinterest"></i></a>
-                                                                    </div>
-                                                                </div>
+                                                                </div>-->
+
 
                                                             </div>
                                                         </li>
@@ -811,6 +814,21 @@
                                                                 </div>
                                                                 <div class="rotater">
                                                                     <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-instagram"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-linkedin"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
+                                                                                class="fa fa-twitter"></i></a>
+                                                                    </div>
+                                                                </div>
+                                                                <!--<div class="rotater">
+                                                                    <div class="btn btn-icon"><a href="#" title=""><i
                                                                                 class="fa fa-html5"></i></a></div>
                                                                 </div>
                                                                 <div class="rotater">
@@ -828,22 +846,8 @@
                                                                 <div class="rotater">
                                                                     <div class="btn btn-icon"><a href="#" title=""><i
                                                                                 class="fa fa-css3"></i></a></div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-instagram"></i></a>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-dribbble"></i></a>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="rotater">
-                                                                    <div class="btn btn-icon"><a href="#" title=""><i
-                                                                                class="fa fa-pinterest"></i></a>
-                                                                    </div>
-                                                                </div>
+                                                                </div>-->
+
 
                                                             </div>
                                                         </li>

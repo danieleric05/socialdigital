@@ -10968,6 +10968,43 @@ form.user .btn-user {
   box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
 }
 
+.btn-instagram {
+  color: #fff;
+  background-color: #e74a3b;
+  border-color: #fff;
+}
+
+.btn-instragram:hover {
+  color: #fff;
+  background-color: #e74a3b;
+  border-color: #e6e6e6;
+}
+
+.btn-instagram:focus, .btn-instagram.focus {
+  color: #fff;
+  background-color: #e74a3b;
+  border-color: #e6e6e6;
+  box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+}
+
+.btn-instagram.disabled, .btn-instagram:disabled {
+  color: #fff;
+  background-color: #e74a3b;
+  border-color: #fff;
+}
+
+.btn-instagram:not(:disabled):not(.disabled):active, .btn-instagram:not(:disabled):not(.disabled).active,
+.show > .btn-instagram.dropdown-toggle {
+  color: #fff;
+  background-color: #2d4373;
+  border-color: #dfdfdf;
+}
+
+.btn-instagram:not(:disabled):not(.disabled):active:focus, .btn-instagram:not(:disabled):not(.disabled).active:focus,
+.show > .btn-instagram.dropdown-toggle:focus {
+  box-shadow: 0 0 0 0.2rem rgba(255, 255, 255, 0.5);
+}
+
 .error {
   color: #5a5c69;
   font-size: 7rem;

@@ -66,28 +66,32 @@
                                         </a>
                                         <hr>
                                         <a href="index.php" class="btn btn-google btn-user btn-block">
-                                            <i class="fab fa-linkedin fa-fw"></i> Login with Linkedin
+                                            <i class="fa fa-linkedin fa-fw"></i> Login with Linkedin
                                         </a>
                                         <a href="index.php" class="btn btn-facebook btn-user btn-block">
-                                            <i class="fab fa-twitter fa-fw"></i> Login with Twitter
+                                            <i class="fa fa-twitter fa-fw"></i> Login with Twitter
                                         </a>
-                                    </form>
-                                    <hr>
-                                    <div class="text-center">
-                                        <a class="small" href="forgot-password.php">Forgot Password?</a>
-                                    </div>
-                                    <div class="text-center">
-                                        <a class="small" href="register.php">Create an Account!</a>
-                                    </div>
+                                        <a href="index.php" class="btn btn-instagram btn-user btn-block">
+                                            <i class="fa fa-instagram fa-fw"></i> Login with Instagram
+                                        </a>
+                                </div>
+                                </form>
+                                <hr>
+                                <div class="text-center">
+                                    <a class="small" href="forgot-password.php">Forgot Password?</a>
+                                </div>
+                                <div class="text-center">
+                                    <a class="small" href="register.php">Create an Account!</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
             </div>
 
         </div>
+
+    </div>
 
     </div>
 

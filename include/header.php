@@ -216,7 +216,8 @@
                         <li>
                             <a href="landing.php" title="Connexion" data-ripple="">Log In</a>
                         </li>
-                        <li><a class="btn-sub" href="landing.php#reg" title="Enregistrement" data-ripple="">Sign In</a>
+                        <li><a class="btn-sub" href="register_login.php" title="Enregistrement" data-ripple="">Sign
+                                In</a>
                         </li>
                     </ul>
                 </div>

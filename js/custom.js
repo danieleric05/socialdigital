@@ -5042,7 +5042,7 @@ if (typeof NProgress != 'undefined') {
 		    	x: 10,
 				y: 0,
 				orient: 'horizontal',
-		        data:['Highest Temperature','Lowest Temperature'],
+		        data:['Normal Progress','Actualy Progress'],
 		    },
 		    
 		    xAxis : [
@@ -5056,13 +5056,13 @@ if (typeof NProgress != 'undefined') {
 		        {
 		            type : 'value',
 		            axisLabel : {
-		                formatter: '{value} °C'
+		                formatter: '{value} K'
 		            }
 		        }
 		    ],
 		    series : [
 		        {
-		            name:'Highest Temperature',
+		            name:'Normal Progress',
 		            type:'line',
 		            data:[11, 11, 15, 13, 12, 13, 10],
 		            markPoint : {
@@ -5078,7 +5078,7 @@ if (typeof NProgress != 'undefined') {
 		            }
 		        },
 		        {
-		            name:'Lowest Temperature',
+		            name:'Actualy Progress',
 		            type:'line',
 		            data:[1, -2, 2, 5, 3, 2, 0],
 		            markPoint : {

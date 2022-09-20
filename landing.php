@@ -186,7 +186,7 @@ else{
                                         Remember Me.
                                     </label>
                                 </div>
-                                <a href="#" title="" class="forgot-pwd">Forgot Password?</a>
+                                <!--<a href="#" title="" class="forgot-pwd">Forgot Password?</a>-->
                                 <div class="submit-btns">
                                     <button name="btnOk" class="btn btn-primary btn-user btn-block"
                                         type="submit"><span>Login</span></button>
@@ -194,15 +194,22 @@ else{
                                 </div>
                                 <hr>
                                 <a href="index.php" class="btn btn-google btn-user btn-block">
-                                    <i class="fab fa-linkedin fa-fw"></i> Login with Linkedin
+                                    <i class="fa fa-linkedin fa-fw"></i> Login with Linkedin
                                 </a>
                                 <a href="index.php" class="btn btn-facebook btn-user btn-block">
-                                    <i class="fab fa-twitter fa-fw"></i> Login with Twitter
+                                    <i class="fa fa-twitter fa-fw"></i> Login with Twitter
                                 </a>
                                 <a href="index.php" class="btn btn-instagram btn-user btn-block">
-                                    <i class="fab fa-instagram fa-fw"></i> Login with Instagram
+                                    <i class="fa fa-instagram fa-fw"></i> Login with Instagram
                                 </a>
+                                <div class="text-center">
+                                    <a class="small" href="">Forgot Password?</a>
+                                </div>
+                                <div class="text-center">
+                                    <a class="small" href="register_login.php">Create an Account!</a>
+                                </div>
                         </div>
+
                         </form>
                     </div>
                     <div class="log-reg-area reg">

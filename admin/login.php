@@ -36,8 +36,8 @@
                     <div class="card-body p-0">
                         <!-- Nested Row within Card Body -->
                         <div class="row">
-                            <div class="col-lg-6 d-none d-lg-block ">
-                                <img src="../admin/img/newCall_logo_600x800.jpg" alt="">
+                            <div class="col-lg-6 d-none d-lg-block center">
+                                <img src="../admin/img/newCall_logo.png" alt="">
                             </div>
                             <div class="col-lg-6">
                                 <div class="p-5">

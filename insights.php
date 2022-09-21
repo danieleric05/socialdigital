@@ -173,7 +173,7 @@
                                                 <div id="main"></div>
                                             </div>
                                         </div>
-                                        <!--<div class="x_panel">
+                                        <div class="x_panel">
                                             <div class="x_title">
                                                 <h2>Bar Graph</h2>
                                                 <ul class="toolbox">
@@ -200,7 +200,7 @@
 
                                             </div>
                                         </div>
-                                        <div class="x_panel">
+                                        <!--<div class="x_panel">
                                             <div class="x_title">
                                                 <h2>Mini Pie</h2>
                                                 <ul class="toolbox">

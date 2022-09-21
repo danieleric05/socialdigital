@@ -48,3 +48,7 @@ form.user {
 .btn-facebook {
   @include button-variant($brand-facebook, $white);
 }
+
+.btn-instagram {
+  @include button-variant($brand-instagram, $white);
+}

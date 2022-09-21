@@ -3045,14 +3045,8 @@ if (typeof NProgress != 'undefined') {
 				  });
 
 			}
-			  
-			  
-			  
-			  
 			   //echart Radar
-			  
 			if ($('#echart_sonar').length ){ 
-			  
 			  var echartRadar = echarts.init(document.getElementById('echart_sonar'), theme);
 
 			  echartRadar.setOption({

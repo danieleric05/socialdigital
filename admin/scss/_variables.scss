@@ -30,6 +30,7 @@ $cyan: #36b9cc !default;
 // Custom Colors
 $brand-google: #0e76a8 !default;
 $brand-facebook: #3b5998 !default;
+$brand-instagram: #e74a3b !default;
 
 // Set Contrast Threshold
 $yiq-contrasted-threshold: 195 !default;
@@ -76,6 +77,6 @@ $dropdown-font-size: 0.85rem !default;
 $dropdown-border-color: $border-color !default;
 
 // Images
-$login-image: '../img/newCall_logo_600x800.jpg' !default;
-$register-image: '../img/newCall_logo_600x800.jpg' !default;
-$password-image: '../img/newCall_logo_600x800.jpg' !default;
+$login-image: '../img/newCall_logo.png' !default;
+$register-image: '../img/newCall_logo.png' !default;
+$password-image: '../img/newCall_logo.png' !default;

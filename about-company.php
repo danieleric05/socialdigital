@@ -75,11 +75,11 @@
 </section><!-- news letter -->
 
 <section>
-    <div class="gap100">
+    <div class="gap100 no-top">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="section-heading">
+                    <div id="teams" class="section-heading">
                         <h2>Our Team</h2>
                     </div>
                 </div>
@@ -87,16 +87,16 @@
                     <div class="our-teambox">
                         <figure><img src="images/resources/team1.jpg" alt=""></figure>
                         <div class="team-info">
-                            <h4>Sara Grey</h4>
+                            <h4>Mireille Pugis</h4>
                             <span>Designer</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="our-teambox">
-                        <figure><img src="images/resources/team4.jpg" alt=""></figure>
+                        <figure><img src="images/resources/team2.jpg" alt=""></figure>
                         <div class="team-info">
-                            <h4>Peeter Paker</h4>
+                            <h4>Françoise Duran</h4>
                             <span>Developer</span>
                         </div>
                     </div>
@@ -105,16 +105,16 @@
                     <div class="our-teambox">
                         <figure><img src="images/resources/team3.jpg" alt=""></figure>
                         <div class="team-info">
-                            <h4>Amy watson</h4>
+                            <h4>Paule Leon</h4>
                             <span>Support</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6">
                     <div class="our-teambox">
-                        <figure><img src="images/resources/team2.jpg" alt=""></figure>
+                        <figure><img src="images/resources/team4.jpg" alt=""></figure>
                         <div class="team-info">
-                            <h4>Emma Watson</h4>
+                            <h4>André Jardin</h4>
                             <span>Operations</span>
                         </div>
                     </div>

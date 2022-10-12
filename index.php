@@ -31,7 +31,8 @@
                             <h2>Employee participation</h2>
                             <p>Users can participate in the communication themselves, if the company wishes. With their
                                 own photos, videos, or external articles, they help to spark the conversation. In the
-                                field, the content created by employees (UGC) represents valuable knowledge, useful to
+                                field, the content created by employees (UGC - User Generated Content) represents
+                                valuable knowledge, useful to
                                 everyone. This content feeds the platform with a credible view of the terrain,
                                 contributing to open communication within the company.
                                 <br>The administrators maintain total control of the user publications. It’s possible to
@@ -107,7 +108,8 @@
                                 <p>No marketing strategy can rely on brand content alone. Expand your resource library
                                     by curating from third-party sources and listening tools, while inviting
                                     employees<br>
-                                    to submit user-generated content (UGC) for approval with Sociabble’s Employee
+                                    to submit user-generated content (UGC - User Generated Content) for approval with
+                                    Sociabble’s Employee
                                     Advocacy tool.</p>
                             </div>
                         </div>

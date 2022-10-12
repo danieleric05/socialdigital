@@ -193,9 +193,7 @@
                         <li>
                             <a href="#serv" title="">Services</a>
                         </li>
-                        <li>
-                            <a href="#teams" title="">Teams</a>
-                        </li>
+
                         <li>
                             <a href="about-company.php" title="">Company</a>
                         </li>

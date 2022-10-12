@@ -1,7 +1,7 @@
 <?php
 //$_pseudo='admin@newcall.fr';
 //$_mot_de_passe='20220801@newcall';
-  $_pseudo='daniel@newcall.fr';
+  $_pseudo='dominique.amon@newcall.fr';
   $_mot_de_passe='123456';
   $mes='';
 if(isset($_POST['btnOk']))

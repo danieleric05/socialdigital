@@ -5,7 +5,7 @@
             <div class="background-video">
                 <video class="bv-video" muted></video>
                 <div class="videobg-meta">
-                    <h3>Influencers Software</h3>
+                    <h3>My Influencers</h3>
                     <div class="info">
                         <span>Our social network influencers</span>
                         <p>

@@ -208,9 +208,8 @@ else{
                                 <div class="text-center">
                                     <a class="small" href="register_login.php">Create an Account!</a>
                                 </div>
+                            </form>
                         </div>
-
-                        </form>
                     </div>
                     <div class="log-reg-area reg">
                         <h2 class="log-title">Register</h2>
